@@ -33,7 +33,6 @@
     "commitizen": "^4.2.6",
     "cz-conventional-changelog": "^3.3.0",
     "husky": "^8.0.2",
-    "lint-staged": "^13.1.0",
     "prettier": "^2.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
@@ -42,10 +41,5 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
-  },
-  "lint-staged": {
-    "*": [
-      "prettier --write"
-    ]
   }
 }
