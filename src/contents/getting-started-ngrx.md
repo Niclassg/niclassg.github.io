@@ -1,6 +1,6 @@
 ---
 author: n19
-datetime: 2023-01-10
+datetime: 2023-01-13
 title: Getting started with ngrx
 slug: getting-started-ngrx
 featured: true
